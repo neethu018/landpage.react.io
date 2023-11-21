@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/landpage.react.io/static/css/main.b1d7ec7b.css",
+    "main.js": "/landpage.react.io/static/js/main.a29b1c17.js",
+    "static/js/787.785a4c54.chunk.js": "/landpage.react.io/static/js/787.785a4c54.chunk.js",
+    "index.html": "/landpage.react.io/index.html",
+    "main.b1d7ec7b.css.map": "/landpage.react.io/static/css/main.b1d7ec7b.css.map",
+    "main.a29b1c17.js.map": "/landpage.react.io/static/js/main.a29b1c17.js.map",
+    "787.785a4c54.chunk.js.map": "/landpage.react.io/static/js/787.785a4c54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.a29b1c17.js"
+  ]
+}
